@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernesto Ramos (Mr. Ramos)</h1>
 <h3 align="center">A passionate cybersecurity student</h3>
-(img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true")
+(img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/174/1744.gif")
 
 - 🌱 I’m currently learning **Ethical hacking and pentesting**
 
