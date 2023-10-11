@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Ethical hacking and pentesting**
 
-- 📫 How to reach me **ramosbash1@gmail.com**
+- 📫 How to reach me **ram0sbash0@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
