@@ -9,8 +9,8 @@
 
 <!-- Información adicional -->
 <p align="center">
-  🌱 I’m currently learning **Ethical hacking and pentesting**<br>
-  📫 How to reach me **ram0sbash0@gmail.com**
+  🌱 I’m currently learning Ethical hacking and pentesting<br>
+  📫 How to reach me ram0sbash0@gmail.com
 </p>
 
 <!-- Languages and Tools -->
