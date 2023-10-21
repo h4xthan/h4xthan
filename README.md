@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My HTB profile:</h3>
 <p align="left">
   <a href="https://app.hackthebox.com/profile/1582590" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/1582590" alt="Hack The Box Profile" width="200" />
