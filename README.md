@@ -39,11 +39,12 @@
   </a>
 </div>
 
-<div align="left">
+<h3 align="left">My HTB Profile</h3>
+<p align="left">
   <a href="https://app.hackthebox.com/profile/1582590" target="_blank">
-    <img src="URL_DE_TU_IMAGEN_DE_HTB" height="35" alt="Hack The Box profile" />
+    <img src="https://www.hackthebox.eu/badge/image/1582590" alt="Hack The Box Profile" width="200" />
   </a>
-</div>
+</p>
 
 ###
 
