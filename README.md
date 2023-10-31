@@ -14,7 +14,7 @@
 
 <!-- Contacto -->
 <p align="center">
-  📫 How to reach me: ram0sbash0@gmail.com
+  📫 How to reach me: ramoscontacto2@gmail.com
 </p>
 
 <!-- Sección de Lenguajes y Herramientas -->
