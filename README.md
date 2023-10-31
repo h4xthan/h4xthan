@@ -1,61 +1,48 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/strRms/strRms/raw/main/JPG_3sds.jpg" alt="Banner" width="100%">
-</p>
+<h2 align="left">Hi 👋! My name is Ernesto Ramos and I'm a passionate cibersecurity student</h2>
 
-<!-- Título y Subtítulo -->
-<h1 align="center">👋 Hi, I'm Ernesto Ramos (Mr. Ramos)</h1>
-<h3 align="center">A passionate cybersecurity student</h3>
+###
 
-<!-- Información de Introducción -->
-<p align="center">
-  🌱 I’m currently learning Ethical hacking and pentesting.
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=strRms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=My%20stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=strRms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- Contacto -->
-<p align="center">
-  📫 How to reach me: ramoscontacto2@gmail.com
-</p>
+###
 
-<!-- Sección de Lenguajes y Herramientas -->
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+<img align="right" height="150" src="https://github.com/strRms/strRms/blob/main/JPG_3sds.jpg"  />
 
-<!-- Enlace a Perfil de Hack The Box -->
-<h3 align="center">My HTB Profile</h3>
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/1582590" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/1582590" alt="Hack The Box Profile" width="200" />
-  </a>
-</p>
+###
 
-<!-- Estadísticas de GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strRms&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+</div>
 
-<!-- Lenguajes Principales -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strRms&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+###
 
-<!-- Redes Sociales -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/MrRam0s_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
+<div align="left">
   <a href="https://www.youtube.com/channel/UCvD6JRye7Pm7BpcSvnfiboQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-</p>
+  <a href="https://www.instagram.com/ramos.py/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/MrRam0s_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/strRms/strRms/output/snake.svg" alt="Snake animation" />
+
+###
