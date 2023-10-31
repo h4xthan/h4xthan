@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/strRms/strRms/blob/main/JPG_3sds.jpg"  />
+<img align="right" height="150" src="https://github.com/strRms/strRms/blob/main/logo.jpeg"  />
 
 ###
 
