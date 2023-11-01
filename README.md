@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ernesto Ramos and I'm a passionate cibersecurity student</h2>
+<h2 align="left">Hi 👋! My name is Ernesto Ramos and I'm a passionate cybersecurity student</h2>
 
 ###
 
